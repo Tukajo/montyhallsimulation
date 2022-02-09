@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/montyhallsimulation/static/css/main.073c9b0a.css",
+    "main.js": "/montyhallsimulation/static/js/main.6a888baf.js",
+    "static/js/111.3e7be342.chunk.js": "/montyhallsimulation/static/js/111.3e7be342.chunk.js",
+    "index.html": "/montyhallsimulation/index.html",
+    "main.073c9b0a.css.map": "/montyhallsimulation/static/css/main.073c9b0a.css.map",
+    "main.6a888baf.js.map": "/montyhallsimulation/static/js/main.6a888baf.js.map",
+    "111.3e7be342.chunk.js.map": "/montyhallsimulation/static/js/111.3e7be342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6a888baf.js"
+  ]
+}
