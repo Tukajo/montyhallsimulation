@@ -29,7 +29,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                {montySimulationObject && <ResultViewer {...montySimulationObject}></ResultViewer>}
+                {montySimulationObject && <ResultViewer {...montySimulationObject} />}
                 <p style={{ color: '#000000' }}>You have {doors} doors selected</p>
                 <span
                     style={{
