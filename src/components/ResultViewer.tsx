@@ -24,7 +24,7 @@ export const ResultViewer = (props: MontyHallSimulationResponse): JSX.Element =>
                 </div>
             )}
             <p>
-                However, of the total {totalWins} wins, {extraData.stayWins} were caused by staying.
+                Moreover, of the total {totalWins} wins, {extraData.stayWins} were caused by staying.
             </p>
             <p>While {extraData.switchWins} were caused by switching.</p>
         </Stack>
